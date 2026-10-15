@@ -1,0 +1,6 @@
+{
+  "name": "Thiranex Blog Engine - Full-Stack Publishing & Discussion Platform",
+  "description": "A full-stack editorial blogging platform with user authentication, rich post authoring & editing, threaded comments, tag indexing, RESTful APIs, and task verification suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
